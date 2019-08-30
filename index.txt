@@ -1,2 +1,8 @@
-{
-}
+[
+{"name":"ccw","age":"56"},
+{"name":"wsy","age":"54"},
+{"name":"cwj","age":"26"},
+{"name":"cjl","age":"24"},
+{"name":"cgc","age":"22"},
+
+]
